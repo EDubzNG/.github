@@ -1,3 +1,5 @@
+<img scr="https://raw.githubusercontent.com/EDubzNG/.github/refs/heads/main/profile/autism.gif">
+
 # I'm Just a dipshit who programs in GML and Lua lol
 
 ## Some of my silly projects include the following:
